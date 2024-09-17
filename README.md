@@ -1,4 +1,5 @@
 # Discord Screenshot Bot
+![image](https://github.com/user-attachments/assets/f0d2e401-3b8d-4906-aad4-07b6ce8bbb66)
 
 This Python script is a Discord bot that captures a screenshot of your screen and sends it to a specified Discord channel.
 
